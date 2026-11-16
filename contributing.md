@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download React Flix](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://tinyurl.com/react-flix)
+[![Download React Flix](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://share.google/Q0dn6gScPcvkXO7SQ)
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-[![Download React Flix](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://tinyurl.com/react-flix)
+[![Download React Flix](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://share.google/Q0dn6gScPcvkXO7SQ)
 
 </div>
 
@@ -172,7 +172,7 @@ Build or use a complete Netflix-like movie app for free. **React Flix – Netfli
 
 <div align="center">
 
-[![Download React Flix](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://tinyurl.com/react-flix)
+[![Download React Flix](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://share.google/Q0dn6gScPcvkXO7SQ)
 
 **Version 3.0.0** — Free React Netflix clone app. May 2026 update. Zero cost. No payment.
 
